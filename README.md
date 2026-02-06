@@ -64,7 +64,7 @@ mox-algorithmic-trading/
 └── README.md              # Project documentation
 ```
 
-> ⚠️ Structure may evolve as the project grows — this is intentional and part of learning.
+> ⚠️ This is just my part of learning.
 
 ---
 
